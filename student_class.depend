@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1622126119 source:/home/freedy/Projects/student_class/Personne.cpp
+	"Personne.h"
+
+1622126090 /home/freedy/Projects/student_class/Personne.h
+	<string>
+	<iostream>
+
+1622125260 source:/home/freedy/Projects/student_class/main.cpp
+	<iostream>
+
